@@ -1,6 +1,6 @@
 # cl-webview
 
-a Binding library for Common Lisp to [webview](https://github.com/webview/webview).
+a Binding library for Common Lisp to [webview](https://github.com/webview/webview)
 
 
 ## Installation
